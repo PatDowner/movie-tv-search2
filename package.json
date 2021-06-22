@@ -1,0 +1,26 @@
+{
+  "name": "movie-tv-search2",
+  "version": "1.0.0",
+  "description": "Redoing class lecture lesson for practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatDowner/movie-tv-search2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatDowner/movie-tv-search2/issues"
+  },
+  "homepage": "https://github.com/PatDowner/movie-tv-search2#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  }
+}
